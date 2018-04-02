@@ -1,2 +1,2 @@
 # Personal-Projects
-Collection of personal projects that I create while I learn to program.
+Collection of personal projects that I have made while learning how to program.
